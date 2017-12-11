@@ -1,0 +1,28 @@
+/*
+*
+*Author: Tiago David Furtado
+*Version: 0.1
+*
+*/
+
+/*===============   Layout    ===============*/
+.border-right-form {
+    border-right: 1px solid #eee;
+}
+
+.project-manager {
+    float: right;
+    margin-top: 50px;
+    color: #41a263;
+    font-family: 'Arial Narrow Bold', Haettenschweiler, sans-serif;
+}
+
+.imagem-logo {
+    background: url('../img/logo-promob-software-solutions.png');
+    display: block;
+    height: 60px;
+    width: 226px;
+    background-size: contain;
+}
+
+/*===============   Tipography    ===============*/
